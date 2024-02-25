@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kaylee Knasiak
+- 👀 I’m a data analyst who enjoys learning new things
+- 🌱 I’m currently learning data storytelling
+- 📫 Reach me through Email!
